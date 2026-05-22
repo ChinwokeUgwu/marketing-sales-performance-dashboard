@@ -1,40 +1,48 @@
 
-# Retail Transaction Intelligence Dashboard
-
 ## Overview
-A Power BI dashboard built on a 6-table star schema analyzing 
-retail transaction data covering $105M in revenue, 6 million 
-units sold and 9,191 customers.
+Power BI dashboard analyzing 200,000 marketing campaigns 
+across $2.5 billion in spend to identify which channels, 
+campaign types and locations deliver the highest ROI.
 
-## Tools & Technologies
-- Power BI Desktop
-- Power Query
-- DAX
-- Star Schema Data Modelling
+## Problem Statement
+Companies had no visibility into which of their 6 channels 
+and 5 campaign types were delivering returns on $2.5 billion 
+in marketing spend across 2021.
 
-## Data Model
-6 tables: Fact table connected to Dim_Customer, Dim_Item, 
-Dim_Store, Dim_Time and Dim_Transaction
+## Objective
+Identify top performing channels and campaign types by ROI, 
+conversion rate, CTR and acquisition cost to enable 
+data driven budget decisions.
 
-## DAX Measures
-- Total Sales
-- Total Quantity
-- Average Unit Price
-- Total Customers
-- % Year on Year Sales
-- % Year on Year Quantity
-- % Year on Year Unit Price
-- % Year on Year Customers
-- Previous Year Sales
-- Previous Year Quantity
-- Previous Year Unit Price
-- Previous Year Customers
+## Tools
+Power BI | Power Query | DAX | Star Schema Modelling
 
-## Key Metrics
-- Total Revenue: $105M
-- Total Quantity: 6M units
-- Average Unit Price: $17.6
-- Total Customers: 9,191
+## Dataset
+- Source: Kaggle
+- Records: 200,000 campaigns
+- Period: January to December 2021
+
+## Key KPIs
+| KPI | Value |
+|---|---|
+| Total Impressions | 1,101,460,304 |
+| Average ROI | 5.00 |
+| Avg Conversion Rate | 8.01% |
+| Total Ad Spend | $2,500,878,608 |
+| Click Through Rate | 9.98% |
+
+## Key Findings
+- Facebook delivered highest ROI at 5.02
+- Influencer campaigns converted best at 8.03%
+- Email generated most clicks at 18.49 million
+- September was peak month with ROI of 5.03
+- New York underperformed all cities at 4.98 ROI
+- CTR of 9.98% beats industry benchmark of 2 to 5%
+
+## Recommendations
+1. Increase Facebook and Influencer budgets by 15%
+2. Launch major campaigns in September
+3. Review New York campaign strategy
 
 ![Marketing Sales Performance Dashboard](marketing_dashboard_screenshot.jpeg)
 
