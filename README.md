@@ -40,7 +40,7 @@ Dim_Store, Dim_Time and Dim_Transaction
 
 ## Connect With Me
 - Email: ugwuchinwoke@gmail.com
-- LinkedIn: Add your LinkedIn URL here
+ 
 ## Business Recommendations
 1. Increase Facebook and Influencer campaign budgets by 15%
 2. Schedule major campaign launches in September
