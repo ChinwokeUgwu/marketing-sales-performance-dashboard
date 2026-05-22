@@ -36,7 +36,7 @@ Dim_Store, Dim_Time and Dim_Transaction
 - Average Unit Price: $17.6
 - Total Customers: 9,191
 
-![Marketing Sales Performance Dashboard](marketing_dashboard_screenshot.png)
+![Marketing Sales Performance Dashboard](marketing_dashboard_screenshot.jpeg)
 
 ## Connect With Me
 - Email: ugwuchinwoke@gmail.com
